@@ -1,0 +1,4 @@
+- Proyecto: Andromeda AR.
+- Stack principal: Next.js, TypeScript, Tailwind CSS.
+- Objetivo: captación de leads y venta de servicios digitales rentables.
+- Mantener cambios pequeños, enfocados y listos para producción.
